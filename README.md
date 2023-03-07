@@ -1,5 +1,8 @@
 # Dotnet Container App
 
+** ALTERACAO **
+** ALTERACAO 001 para DEMo **
+
 This .NET 6 example application to demonstrate the process of creating a container application. You can choose to publish the application to Azure Kubernetes Services (AKS) or Azure RedHat OpenShift (ARO).
 
 ![Application](/docs/images/img01.png "Application")
